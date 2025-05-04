@@ -6,13 +6,13 @@ O objetivo é registrar o progresso e organizar os conteúdos estudados ao longo
 
 ## Estrutura do Repositório
 
-A estrutura é organizada por listas de exercícios ou módulos:
+A estrutura é organizada por listas de exercícios ou módulos:  
 
-lista_um
-    |- README.md
-    |- ex01.js
-    |- ex03.js
-    |- ...
+lista_um  
+    |- README.md  
+    |- ex01.js  
+    |- ex03.js  
+    |- ...  
     
-lista_dois 
-    |-...
+lista_dois  
+    |-...  
